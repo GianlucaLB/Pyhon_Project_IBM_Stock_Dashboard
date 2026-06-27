@@ -1,4 +1,5 @@
-#IBM Stock Dashboard project
+# **IBM Stock Dashboard project**
+
 
 In this project, my first task was to extract Tesla and GameStop financial data using the yfinance Python library. The second task was to use web scraping to extract Tesla and GameStop revenue data using BeautifulSoup.
 
@@ -11,6 +12,9 @@ When all the data was ready, I used a function provided by IBM to visualize it u
 Python libraries used:
 
 yfinance — for extracting financial data
+
 pandas — for data cleaning and DataFrame manipulation
+
 requests — for accessing the webpage
+
 BeautifulSoup — for parsing the HTML and extracting the relevant tables
